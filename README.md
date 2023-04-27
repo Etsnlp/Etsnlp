@@ -6,7 +6,7 @@
 </div>
 
 #### I'm a Digital Game Design student and video games fan 
-#### In here, generally sharing my public game projects for a portfolio with step-by-step commits
+#### In here, generally sharing my public game projects for my portfolio with step-by-step commits
 
 
 - 🔭 On my game projects, mainly working on Unity and Unreal Engine (But I used other engines like RPG Maker etc.)
