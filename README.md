@@ -1,9 +1,10 @@
 
+## Hi there, it is Emir👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H5HC46hVQLK6WMvUB7/giphy.gif" width="300"/>
 </div>
 
-### Hi there, it is Emir👋
 #### I'm a Digital Game Design student and video games fan 
 #### In here, generally sharing my public game projects as a portfolio with step-by-step commits
 
