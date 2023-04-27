@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Etsnlp/Etsnlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/H5HC46hVQLK6WMvUB7/giphy.gif" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+### Hi there, it is Emir👋
+#### I'm a Digital Game Design student and video games fan 
+#### In here, generally sharing my public game projects as a portfolio with step-by-step commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 On my game projects, mainly working on Unity and Unreal Engine (But I used other engines like RPG Maker etc.)
+- 🌱 Currently learning "How to write Game Design Document"
+- 💬 Ask me about anything
+- 📫 How to reach me: sonalpemir@gmail.com
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/emir-sonalp-3533b121b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
