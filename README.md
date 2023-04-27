@@ -9,7 +9,7 @@
 #### In here, generally sharing my public game projects for my portfolio with step-by-step commits
 
 
-- 🔭 On my game projects, mainly working on Unity and Unreal Engine (But I used other engines like RPG Maker etc.)
+- 🔭 On my game projects, mainly working with Unity and Unreal Engine (But I used other engines like RPG Maker etc.)
 - 🌱 Currently learning "How to write Game Design Document"
 - 💬 Ask me about anything
 - 📫 How to reach me: sonalpemir@gmail.com
